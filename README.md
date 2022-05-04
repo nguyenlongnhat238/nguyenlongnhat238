@@ -25,6 +25,8 @@
   </div>
   <br/>
  
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttken01&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   📞 CONTACT ME:
  
   <a href="mailto:kennguyen.cr1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F7F7F7?style=for-the-badge&logo=Gmail"> </a>
