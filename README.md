@@ -1,6 +1,6 @@
  <h1>Hi, I'm <span style="font-weight:bold;">Nguyen Long Nhat</span> - Web Developer - I am Vietnamese</h1>
  
-  <a href="https://github.com/NguyenLongNhat238">My profile 👈</a>
+  <a href="https://github.com/NguyenLongNhat238">My portfolio 👈</a>
  
   <br/>
  
@@ -43,7 +43,8 @@
   </div>
   <br/>
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenLongNhat238&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
   📞 CONTACT ME:
  
