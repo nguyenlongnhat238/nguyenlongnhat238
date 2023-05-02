@@ -1,4 +1,4 @@
- <h1>Hi, I'm <span style="font-weight:bold;">Nguyen Long Nhat</span> - Web Developer - I am Vietnamese</h1>
+ <h1>Hi, I'm <span style="font-weight:bold;">Nguyen Long Nhat</span></h1>
  
   <a href="https://github.com/NguyenLongNhat238">My portfolio 👈</a>
  
