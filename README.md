@@ -53,6 +53,6 @@
    </details>
 
   📞 CONTACT ME:
- 
   <a href="mailto:kennguyen.cr1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F7F7F7?style=for-the-badge&logo=Gmail"> </a>
   <a href="https://www.linkedin.com/in/nhật-nguyễn-long-96122525a/"> 	<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  [<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://github.com/nguyenlongnhat238/nguyenlongnhat238/files/13769764/NguyenLongNhat_CV.pdf)
