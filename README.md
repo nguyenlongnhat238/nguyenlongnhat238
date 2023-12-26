@@ -55,5 +55,4 @@
   📞 CONTACT ME:
  
   <a href="mailto:kennguyen.cr1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F7F7F7?style=for-the-badge&logo=Gmail"> </a>
-  <a href="https://www.instagram.com/_ken_zz/"> <img src="https://img.shields.io/badge/-Instagram-76e38f?style=for-the-badge&logo=Instagram"> </a>
-  <a href="https://www.facebook.com/t.tken01/"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
+  <a href="https://www.linkedin.com/in/nhật-nguyễn-long-96122525a/"> 	<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
