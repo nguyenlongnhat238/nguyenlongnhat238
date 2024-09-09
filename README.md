@@ -54,5 +54,5 @@
 
   📞 CONTACT ME:
   <a href="mailto:kennguyen.cr1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F7F7F7?style=for-the-badge&logo=Gmail"> </a>
-  <a href="https://www.linkedin.com/in/nhật-nguyễn-long-96122525a/"> 	<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="https://www.linkedin.com/in/nguyenlongnhat238/"> 	<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
