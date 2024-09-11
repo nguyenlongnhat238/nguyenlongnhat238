@@ -4,7 +4,7 @@
  
   <br/>
  
-  🤖 MY TOOLS & TECHNOLOGIES:
+<!-- 🤖 MY TOOLS & TECHNOLOGIES:
  
   <div style="display:flex; flex-wrap: wrap;">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -42,7 +42,7 @@
       <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
       <img src="https://img.shields.io/badge/celery-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white" />
   </div>
-  <br/>
+  <br/> -->
  
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenlongnhat238&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    <details>
